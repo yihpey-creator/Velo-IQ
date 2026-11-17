@@ -1,5 +1,6 @@
 # Velo-IQ
 Cycling Intelligent Studio
+
 velo-iq/
 ├── .agents/skills/
 ├── frontend/          # Next.js + TypeScript
